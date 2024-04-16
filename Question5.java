@@ -28,7 +28,7 @@ public class Question5
      */
      
     Scanner in = new Scanner(System.in);
-    
+
       //count of number user will input 
       int numIntegers = in.nextInt();   
 
@@ -58,4 +58,3 @@ public class Question5
       in.close(); 
     }
   }
-}
